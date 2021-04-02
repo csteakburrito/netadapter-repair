@@ -48,8 +48,8 @@ Download "latest_build.zip" Open as an Administrator (Right click Run As Adminis
 | Alternative Download Locations | Link |
 | ------ | ------ |
 | SourceForge | https://sourceforge.net/projects/netadapter |
-| Major Geeks | http://www.majorgeeks.com/files/details/netadapter_repair.html |
-| Bleeping Computer | http://www.bleepingcomputer.com/download/netadapter-repair-all-in-one |
+| Major Geeks | https://www.majorgeeks.com/files/details/netadapter_repair.html |
+| Bleeping Computer | https://www.bleepingcomputer.com/download/netadapter-repair-all-in-one/ |
 
 ## License
 MIT
