@@ -3,7 +3,7 @@ NetAdapter Repair allows you to effectively troubleshoot and repair common probl
 
 ## Run
 ```sh
-Open as an Administrator (Right click Run As Administrator or Shift Click Open as an Elevated User)
+Download "latest_build.zip" Open as an Administrator (Right click Run As Administrator or Shift Click Open as an Elevated User)
 ```
 > Note: Tested Windows Versions XP, Vista, 7, 8 and 8.1, 10, 2003, 2008, 2008 R2, 2012, 2012 R2
 
