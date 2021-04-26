@@ -1,6 +1,8 @@
 # netadapter-repair
 NetAdapter Repair allows you to effectively troubleshoot and repair common problems with windows network adapters without using command line. Was developed as a way to diagnose remote systems by walking someone through troubleshooting without using command line. It is effective for removing proxies, resetting TCP/IP stack and clearing other common windows networking issues.
 
+Last Updated: 2015-01-18
+
 ## Run
 ```sh
 Download "latest_build.zip" Open as an Administrator (Right click Run As Administrator or Shift Click Open as an Elevated User)
